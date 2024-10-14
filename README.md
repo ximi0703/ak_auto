@@ -11,7 +11,6 @@ python操作双目相机（大恒）测距
 ![f1556de1b38cfe1aae7c58fbcf63358](https://user-images.githubusercontent.com/43095279/157668125-efd33c9d-6641-404d-b4d9-57a6386772f9.jpg)
 ![5bb5a20b05db67be41f11d2a62731f4](https://user-images.githubusercontent.com/43095279/157668149-c21e46dc-3912-4b97-a293-957655743835.jpg)
 ![473c643b5051d6e9306a78f09e4a42b](https://user-images.githubusercontent.com/43095279/157668159-36c2a1d6-dc12-4733-b913-aa23e57d4d8b.jpg)
-![cfcb68a32acc2ae205dc3794aadb8ac](https://user-images.githubusercontent.com/43095279/157668182-cfd203f0-e52f-4645-bf78-ab7753991dd9.jpg)
 
 
 一、背景
